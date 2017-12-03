@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Black.png</file>
+        <file>images/Blue.png</file>
+        <file>images/comp.png</file>
+        <file>images/Disabled.png</file>
+        <file>images/Grey.png</file>
+        <file>images/Orange.png</file>
+        <file>images/White.png</file>
+        <file>images/Green.png</file>
+        <file>images/Headphones.png</file>
+        <file>images/LineIn.png</file>
+        <file>images/LineOut.png</file>
+        <file>images/Microphone.png</file>
+        <file>images/Pink.png</file>
+        <file>images/Purple.png</file>
+        <file>images/Question.png</file>
+        <file>images/Red.png</file>
+        <file>images/Speakers.png</file>
+        <file>images/Yellow.png</file>
+    </qresource>
+</RCC>
